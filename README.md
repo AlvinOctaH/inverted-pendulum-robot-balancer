@@ -218,7 +218,3 @@ B.Eng. Robotics & AI Engineering, Universitas Airlangga
 [![GitHub](https://img.shields.io/badge/GitHub-AlvinOctaH-181717?logo=github)](https://github.com/AlvinOctaH)
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
